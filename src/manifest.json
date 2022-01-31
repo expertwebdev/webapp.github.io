@@ -1,7 +1,7 @@
 {
   "name": "Web App",
   "short_name": "WebApp",
-  "start_url": "#",
+  "start_url": "https://expertwebdev.github.io/webapp.github.io/",
   "display": "standalone",
   "background_color": "#fff",
   "theme_color" : "#0f7696",
